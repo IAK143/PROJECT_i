@@ -1,6 +1,3 @@
-# PROJECT_i
-🚀 Project "i" lets specially abled users control a computer using hand or eye gestures via webcam! 🖱️ Scroll, click, adjust volume &amp; more — all touch-free. Built with OpenCV, dlib, pyautogui, Python &amp; NumPy. 🌈 It's open source &amp; made to empower. 💻✨
-
 🚀 Project "i" — Revolutionizing Computer Interaction for the Special Ones 🌟
 
 Introducing "i", a groundbreaking assistive technology system designed to empower Specially Abled Persons 👩‍🦽🧑‍🦯 by transforming the way they interact with computers. With just a webcam and their hand gestures ✋ or eye movements 👁️, users can effortlessly control their mouse — no physical touch needed.
