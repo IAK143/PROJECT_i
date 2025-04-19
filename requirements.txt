@@ -1,0 +1,26 @@
+# Core Libraries
+opencv-python
+mediapipe
+dlib
+numpy
+
+# For Cursor Control
+pyautogui
+pynput
+
+# Optional - Enhance Face Detection
+face-recognition
+
+# For Blink Detection and Signal Processing
+scipy
+imutils
+
+# For GUI (Optional - if you’re adding a UI)
+tkinter  # usually comes pre-installed with Python
+PyQt5    # for more advanced GUI
+
+# For voice output (optional feature)
+pyttsx3
+
+# For cross-platform compatibility
+platformdirs
