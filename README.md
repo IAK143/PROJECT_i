@@ -48,8 +48,9 @@ _"i" is not just software — it’s a digital freedom enabler for the ones who 
 ```bash
 git clone https://github.com/IAK143/PROJECT_i.git
 cd PROJECT_i
-cd PROJECT CIT 
 pip install -r requirements.txt
+cd PROJECT CIT / PROJECT CIT II / PROJECT CIT III
+*pip install -r requirements.txt -- somethimes
 python main.py
 
 
