@@ -53,6 +53,10 @@ cd PROJECT CIT / PROJECT CIT II / PROJECT CIT III
 *pip install -r requirements.txt -- somethimes
 python main.py
 
+If you're using dlib, make sure to install prerequisites:
+On Windows: You may need CMake, Visual Studio Build Tools.
+
+On macOS/Linux: You may need cmake, boost, xcode-select, etc.
 
 ✅ Make sure you have a working webcam and Python 3.8+ installed.
 
