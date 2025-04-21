@@ -53,6 +53,8 @@ cd PROJECT CIT / PROJECT CIT II / PROJECT CIT III
 *pip install -r requirements.txt -- somethimes
 python main.py
 
+```
+---
 If you're using dlib, make sure to install prerequisites:
 On Windows: You may need CMake, Visual Studio Build Tools.
 
@@ -60,17 +62,22 @@ On macOS/Linux: You may need cmake, boost, xcode-select, etc.
 
 ✅ Make sure you have a working webcam and Python 3.8+ installed.
 
-🤝 Contribute
+# 🤝 Contribute
 We welcome contributions from developers, designers, and accessibility advocates!
 Feel free to fork the repo, create a pull request, or open issues to suggest improvements.
 
-🔗 GitHub: IAK143/PROJECT_i
+🔗 GitHub: IAK143/Project_i
 
-📜 License
-This project is Open Source under the MIT License.
+# 📜 License
 
-🌍 Connect With Us
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.**
+You may not use this app for commercial purposes or modify it in any form.  
+**Always credit the original author. Trademarks and logos must remain untouched.**  
+License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+
+# 🌍 Connect With Us
 Visit the official site: https://i12.netlify.app
 GitHub: @IAK143
 
-Made with ❤️ by Team I12
+**Made with ❤️ by Team I12**
