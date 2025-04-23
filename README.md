@@ -35,7 +35,7 @@ This life-changing system enables seamless interaction and promotes digital inde
 ## 💡 Why "i"?
 
 Because **"i"** stands for:  
-➡️ *Baby/Ipsita*
+➡️ *Baby/Ipsita*   
 ➡️ *Inclusion*  
 ➡️ *Innovation*  
 ➡️ *Independence*
