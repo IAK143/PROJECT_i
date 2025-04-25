@@ -71,7 +71,7 @@ Feel free to fork the repo, create a pull request, or open issues to suggest imp
 
 # 📜 License
 
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.**
+**GNU GENERAL PUBLIC LICENSE**
 You may not use this app for commercial purposes or modify it in any form.  
 **Always credit the original author. Trademarks and logos must remain untouched.**  
 License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
